@@ -1,6 +1,6 @@
-<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG) </p>
-<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website2.PNG) </p>
-<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website3.PNG) </p>
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG) 
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website2.PNG) 
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website3.PNG) 
 
 
 <p align="center">
