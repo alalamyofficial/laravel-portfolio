@@ -1,5 +1,5 @@
-<img src="https://pasteboard.co/JSZMfCf.png"/>
-<img src="https://lh3.googleusercontent.com/CH8Btbsky0drgR57GMragQ95KmBENXwgd4dv0LF-274jJXWnhdpbiae4AhHJXuLKKsIQ0A=s138"/>
+![](https://github.com/alalamyofficial/laravel-portfolio.git/project-images/website2.png)
+<img src="project-images/website2.png"/>
 <img src="project-images/website3.png"/>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
