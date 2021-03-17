@@ -1,8 +1,7 @@
-![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG)
-![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website2.PNG)
-![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website3.PNG)
+<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG) </p>
+<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website2.PNG) </p>
+<p align="center"> ![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website3.PNG) </p>
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
