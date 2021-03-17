@@ -1,4 +1,4 @@
-![Img 1](https://github.com/alalamyofficial/laravel-portfolio/tree/master/project-images/website1.png)
+![Img 1](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG)
 <img src="project-images/website2.png"/>
 <img src="project-images/website3.png"/>
 
