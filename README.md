@@ -1,5 +1,5 @@
 <img src="https://ibb.co/kgCMYwh"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png"/>
+<img src="https://lh3.googleusercontent.com/CH8Btbsky0drgR57GMragQ95KmBENXwgd4dv0LF-274jJXWnhdpbiae4AhHJXuLKKsIQ0A=s138"/>
 <img src="project-images/website3.png"/>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
