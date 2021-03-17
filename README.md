@@ -1,6 +1,6 @@
-![Img 1](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG)
-<img src="project-images/website2.png"/>
-<img src="project-images/website3.png"/>
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website1.PNG)
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website2.PNG)
+![](https://github.com/alalamyofficial/laravel-portfolio/blob/master/project-images/website3.PNG)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
