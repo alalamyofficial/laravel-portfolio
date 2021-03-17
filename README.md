@@ -1,4 +1,4 @@
-<img src="project-images/website1.png"/>
+![](/project-images/website1.png")
 <img src="project-images/website2.png"/>
 <img src="project-images/website3.png"/>
 
